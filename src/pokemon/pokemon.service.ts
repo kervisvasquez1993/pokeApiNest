@@ -73,7 +73,7 @@ export class PokemonService {
     return "Pokemon con el id " + id + " eliminado de forma correcta"
     // try {
     //   const result  = await this.PokemonModel.findByIdAndDelete(id)
-    //   return result
+    //   return resultπ
     // } catch (error) {
     //     console.log(error)
     // }
